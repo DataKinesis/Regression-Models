@@ -1,3 +1,6 @@
+---
+output: html_document
+---
 ## Executive Summary  
 The purpose of this report is to analyze `mtcars` data set to explore the relationship between a set of variables and miles per gallon (MPG). The data comes from the 1974 *Motor Trend* US magazine, and containsfuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973–74 models). I will use regression models and exploratory data analysis to explore if *MPG* is impacted by automatic or manula trasnmisison feature. 
 
